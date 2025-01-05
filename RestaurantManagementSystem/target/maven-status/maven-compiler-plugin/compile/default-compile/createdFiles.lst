@@ -1,0 +1,10 @@
+com\triobites\models\SerializationHelper.class
+com\triobites\ui\MainFrame$MainButton.class
+com\triobites\ui\OrderFrame.class
+com\triobites\models\Dish.class
+com\triobites\models\Order.class
+com\triobites\ui\BillingFrame.class
+com\triobites\ui\InfoSaveFrame.class
+com\triobites\ui\MainFrame.class
+com\triobites\ui\MenuFrame.class
+com\triobites\ui\LoginFrame.class
